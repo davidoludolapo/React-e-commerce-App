@@ -19,7 +19,7 @@ export const sliderItems = [
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
-    },
+    }, 
   ];
 
   export const categories = [
@@ -69,6 +69,18 @@ export const sliderItems = [
     {
       id:7,
       img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    },
+    {
+      id:8,
+      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    },
+    {
+      id:8,
+      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    },
+    {
+      id:8,
+      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
     },
     {
       id:8,
